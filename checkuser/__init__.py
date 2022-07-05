@@ -8,9 +8,9 @@ from checkuser.web import Server, ServerManager
 
 from checkuser.utils import base_cli
 
-__version__ = '2.2.0'
-__author__ = 'Kaua Mello'
-__email__ = 'vpnlite223@gmail.com
+__version__ = '2.1.6'
+__author__ = 'Glemison C. Dutra'
+__email__ = 'glemyson20@gmail.com'
 
 base_cli.description = 'Checker for OpenVPN and SSH'
 base_cli.prog = 'checker v' + __version__
