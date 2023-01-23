@@ -1,4 +1,4 @@
-url='https://github.com/kauavpnlite/CheckUser'
+url='https://github.com/mauvadao4g/CheckUserGLTunel'
 
 cd ~
 
